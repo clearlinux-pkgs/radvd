@@ -6,7 +6,7 @@
 #
 Name     : radvd
 Version  : 2.17
-Release  : 1
+Release  : 2
 URL      : http://www.litech.org/radvd/dist/radvd-2.17.tar.xz
 Source0  : http://www.litech.org/radvd/dist/radvd-2.17.tar.xz
 Source99 : http://www.litech.org/radvd/dist/radvd-2.17.tar.xz.asc
