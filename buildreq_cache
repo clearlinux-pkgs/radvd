@@ -1,5 +1,0 @@
-2.17
-bison
-flex
-pkgconfig(systemd)
-systemd-dev
